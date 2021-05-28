@@ -14,7 +14,7 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]SERIES TOKUSATSU [/B][/COLOR]</name>
-<thumbnail>https://i.pinimg.com/736x/c7/a4/3c/c7a43ccc3251f29425a76f638be534a1.jpg</thumbnail>
+<thumbnail>https://lirp-cdn.multiscreensite.com/63444aed/dms3rep/multi/opt/TCCAPA0045-1920w.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/SERIES-TOKUSATSU/main/README.md</externallink>
 <fanart>https://i2.wp.com/www.bananaquantica.com.br/wp-content/uploads/2015/05/metalhero.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES SERIES TOKUSATSU MAIS  ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
