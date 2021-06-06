@@ -3,6 +3,16 @@
 
 <channels>
 <channel>
+<name>[COLOR blue][B]SERIES TORRENT [/B][/COLOR]</name>
+<thumbnail>http://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/series-torente/main/README.md</externallink>
+<fanart>https://s2.glbimg.com/Sxw7szwJvG5_wHf2ZZ4YDdZGlZc=/0x0:695x387/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/t/7/B0LUujSBAogxG6E1A9Xg/passo-2.jpg</fanart>
+<info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES SERIES  (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
+</channel>
+<channels>
+
+<channels>
+<channel>
 <name>[COLOR blue][B]SERIES  [/B][/COLOR]</name>
 <thumbnail>http://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/base-series/main/README.md</externallink>
